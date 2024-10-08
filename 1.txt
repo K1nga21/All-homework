@@ -1,0 +1,4 @@
+ismlar = ['Abdulaziz', 'Otabek', 'Alisher']
+print("Bugun " , ismlar[0], "bilan futbol oynashga bordik")
+print(ismlar[1], "CS2 da sen yomon oynisan")
+print(ismlar[2], "ты лучший друг")
